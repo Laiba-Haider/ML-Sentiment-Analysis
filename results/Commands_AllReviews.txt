@@ -1,0 +1,21 @@
+pip install streamlit pandas numpy scikit-learn scipy imbalanced-learn nltk
+python train_all_models.py	
+streamlit run app.py
+
+
+Yeh reviews try karo 
+
+🟢 Positive reviews:
+
+I absolutely love this dress! The fabric is so soft and it fits perfectly. Will definitely buy again.
+Beautiful blouse, great quality and the color is exactly as shown in the picture.
+
+🔴 Negative reviews:
+
+Terrible quality, the stitching came apart after one wash. Very disappointed.
+This dress looked nothing like the picture. Cheap fabric and the sizing was completely off.
+
+🟡 Neutral reviews:
+
+The dress is okay, nothing special. Fabric is decent but the color was slightly different.
+It fits alright but I expected better quality for the price. Not bad but not great either.
